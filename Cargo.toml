@@ -1,0 +1,11 @@
+[package]
+name = "qbe-codegen"
+version = "0.1.0"
+edition = "2024"
+authors = ["AndreRojasMartinsson"]
+description = "IR Builder for the QBE Backend"
+license = "MIT"
+repository = "https://github.com/AndreRojasMartinsson/qbe-codegen"
+keywords = ["QBE", "Backend", "Compiler", "Tooling", "IR", "Intermediate Representation", "Builder"]
+
+[dependencies]
